@@ -1,7 +1,7 @@
 /**
  *Java 1. Home work 1.
  *@autor Ilyukhina Natalia
- *version 20.09.21
+ *@version 20.09.21
  */
 class HomeWorkAppGeneral1 {
     public static void main(String[]args){
